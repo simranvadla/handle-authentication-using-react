@@ -16,9 +16,7 @@ function App() {
         <Route path="/profile" component={Profile} />
       </Switch>
     </Router>
-  </AuthProvider>
-      
-    
+  </AuthProvider>   
   );
 }
 
